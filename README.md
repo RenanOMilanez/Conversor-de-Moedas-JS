@@ -12,7 +12,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript**, com design moderno e fundo 
 
 ## 🖼️ Imagem de Demonstração
 
-![Preview do projeto](./assets/demo.png)  
+![Preview do projeto](./imagens/Conversor_de_Moedas.png)  
 *Interface limpa, interativa e com visual moderno em tempo real*
 
 ---
