@@ -12,7 +12,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript**, com design moderno e fundo 
 
 ## 🖼️ Imagem de Demonstração
 
-![(./imagens/Conversor_de_Moedas.png)]
+![Image](https://github.com/RenanOMilanez/Conversor-de-Moedas-JS/blob/main/Imagens/Conversor%20de%20Moedas.png?raw=true)
 *Interface limpa, interativa e com visual moderno em tempo real*
 
 ---
