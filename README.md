@@ -57,10 +57,3 @@ Se desejar futuramente adicionar um botão para alternar entre **modo claro e es
 - Canvas para fundo animado
 
 ---
-
-## 🛠️ Como Rodar Localmente
-
-```bash
-git clone https://github.com/SEU_USUARIO/conversor-moedas-moderno.git
-cd conversor-moedas-moderno
-# Basta abrir o arquivo index.html no navegador
