@@ -6,7 +6,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript**, com design moderno e fundo 
 
 ## 🔗 Acesse o Projeto
 
-👉 [Clique aqui para acessar o Conversor ao vivo (GitHub Pages)](https://SEU_USUARIO.github.io/conversor-moedas-moderno)
+👉 [Clique aqui para acessar o Conversor ao vivo (GitHub Pages)](https://github.com/RenanOMilanez/Conversor-de-Moedas-JS/tree/main/Convers%C3%A3o%20de%20Moedas)
 
 ---
 
